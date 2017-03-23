@@ -1,0 +1,2 @@
+#!/bin/bash
+python kNN.py $1 $2 $3

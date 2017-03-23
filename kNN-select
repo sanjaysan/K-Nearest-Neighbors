@@ -1,0 +1,2 @@
+#!/bin/bash
+python kNN-select.py $1 $2 $3 $4 $5
